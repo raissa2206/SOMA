@@ -1,5 +1,6 @@
 # soma
 equipe
 Raissa
-ISABELIAMANDA
+ISABELI
 AMANDA
+GIOVANA
